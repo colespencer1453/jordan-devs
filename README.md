@@ -1,38 +1,40 @@
 # 🇯🇴 Jordan Dev Collective
 
-Welcome to the **Jordan Dev Collective** – a community of developers, learners, and collaborators based in or connected to Jordan. This isn't just a project repo — it's a living, collaborative workspace for:
+Welcome to the **Jordan Dev Collective** — a knowledge-sharing and collaboration hub for software developers in Jordan.
 
-- 💻 Building and sharing small projects
-- ❓ Asking and answering questions
-- 🧠 Learning together through tutorials and study groups
-- 🤝 Supporting one another's journeys in tech
+This repo is:
+- A 📚 living knowledge base (via the Wiki)
+- A 💡 project directory (in `/projects`)
+- A ❓ question board and collaboration space (via Issues)
 
-Whether you're a beginner or an experienced dev, there's a space here for you.
-
----
-
-## 🚀 Ways to Get Involved
-
-- **Ask a question or start a conversation** → [GitHub Discussions](https://github.com/YOUR-ORG/community/discussions)
-- **Share or join a project** → See the `/projects` folder and open a Pull Request
-- **Improve documentation or share resources** → Add to the [Wiki](https://github.com/YOUR-ORG/community/wiki)
-- **Report an issue or suggest an improvement** → Use GitHub [Issues](https://github.com/YOUR-ORG/community/issues)
+This is not where code lives — it’s where **learning**, **organizing**, and **collaborating** begins.
 
 ---
 
-## 📚 Resources
+## 🌟 Ways to Participate
 
-- 📘 [Community Wiki](https://github.com/YOUR-ORG/community/wiki)
-- 🛠️ [Contributing Guidelines](./CONTRIBUTING.md)
-- 📜 [Code of Conduct](./CODE_OF_CONDUCT.md)
+- 🧠 Browse or contribute to the [Wiki](https://github.com/YOUR-ORG/community/wiki)
+- ❓ Open an Issue to:
+  - Ask a question
+  - Propose a project
+  - Request feedback or help
+- 🛠 Add your project to the `/projects` folder (see [Contributing Guide](./CONTRIBUTING.md))
+- ✅ Fix broken links or improve documentation with a Pull Request
 
 ---
 
-## 💬 Community Values
+## 📂 Project Directory
 
-- Be kind and curious
-- Ask questions freely — there's no such thing as a dumb question
-- Assume good intentions and help each other grow
-- Keep things inclusive, collaborative, and respectful
+See the [`/projects`](./projects) folder to explore active and archived community projects.  
+Want to list your own? Open a PR with a new Markdown file describing it.
 
-We’re building this community together — thanks for being here.
+---
+
+## 🙌 Community Values
+
+- Be kind, constructive, and curious
+- Learn and grow together — no egos here
+- Respect one another’s time and work
+- Assume good intentions and build good things
+
+📜 [Code of Conduct](./CODE_OF_CONDUCT.md)
