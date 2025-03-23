@@ -13,19 +13,19 @@ This is not where code lives — it’s where **learning**, **organizing**, and 
 
 ## 🌟 Ways to Participate
 
-- 🧠 Browse or contribute to the [Wiki](https://github.com/YOUR-ORG/community/wiki)
+- 🧠 Browse or contribute to the [Wiki](https://github.com/colespencer1453/jordan-devs/wiki)
 - ❓ Open an Issue to:
   - Ask a question
   - Propose a project
   - Request feedback or help
-- 🛠 Add your project to the `/projects` folder (see [Contributing Guide](./CONTRIBUTING.md))
+- 🛠 Add your project to the `/projects` folder (see [Contributing Guide](https://github.com/colespencer1453/jordan-devs/blob/main/CONTRIBUTING.MD)
 - ✅ Fix broken links or improve documentation with a Pull Request
 
 ---
 
 ## 📂 Project Directory
 
-See the [`/projects`](./projects) folder to explore active and archived community projects.  
+See the [`/projects`](https://github.com/colespencer1453/jordan-devs/tree/main/projects) folder to explore active and archived community projects.  
 Want to list your own? Open a PR with a new Markdown file describing it.
 
 ---
@@ -37,4 +37,3 @@ Want to list your own? Open a PR with a new Markdown file describing it.
 - Respect one another’s time and work
 - Assume good intentions and build good things
 
-📜 [Code of Conduct](./CODE_OF_CONDUCT.md)
