@@ -21,16 +21,30 @@ Thanks for helping grow this community! Here's how you can get involved:
 Each project listed in `/projects` should have its own Markdown file:
 
 ```markdown
-# Project Name
 
-**Status**: Active | In Progress | Paused | Finished  
-**Maintainers**: @githubuser1, @githubuser2  
-**Tech Stack**: Node.js, React, Supabase  
+# Dotnet MVC
+
+  
+
+**Status**: Active
+
 **Repo**: [github.com/username/project](https://github.com/username/project)
+**Maintainers**: https://github.com/{username}
+**Tech Stack**: React, Node, NextJS
+
+  
 
 ## Description
 
-Short summary of the project — what it's for, who it's for, and why it's cool.
+  
+
+Briefly describe what the project is, what it does, or what it's exploring.
+
+  
+
+> Example:
+
+> A lightweight volunteer signup tool for small nonprofits in Jordan. Built with Supabase and React. Meant to simplify event coordination without requiring user accounts.
 
 ## How to Get Involved
 
